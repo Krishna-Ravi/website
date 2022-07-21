@@ -1,2 +1,2 @@
-# mywebsite
-This contains my website created using HTML, CSS, BOOTSTRAP
+# My Portfolio Website
+This contains my portfolio created using HTML, CSS, BOOTSTRAP
